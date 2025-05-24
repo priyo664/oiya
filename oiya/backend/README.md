@@ -9,39 +9,37 @@ TEKNOLOGI DAN ARSITEKTUR
 
 CHECK LIST FRONTEND FILE
 a.	Penumpang
-Halaman	Keterangan
-Login	Form nomor + OTP
-Daftar	Form data pengguna baru
-Halaman Utama	Tombol pesan layanan + peta
-Form Pesan Driver	Input lokasi + tombol konfirmasi
-Tracking Pesanan	Peta + info driver
-Pembayaran	Konfirmasi pembayaran tunai / QRIS
-Riwayat & Rating	Daftar trip + tombol beri rating
-Chat	Penumpang <--> driver
+- Login:	Form nomor + OTP
+- Daftar	Form data pengguna baru
+- Halaman Utama	Tombol pesan layanan + peta
+- Form Pesan Driver	Input lokasi + tombol konfirmasi
+- Tracking Pesanan	Peta + info driver
+- Pembayaran	Konfirmasi pembayaran tunai / QRIS
+- Riwayat & Rating	Daftar trip + tombol beri rating
+- Chat	Penumpang <--> driver
 
 b.	Driver
-Halaman Driver	Keterangan
-Login Driver	Form nomor HP + OTP untuk driver login
-Register Driver	Form pendaftaran data lengkap driver
-Dashboard Driver	Halaman utama driver, status & navigasi order
-Terima Order	Halaman/komponen untuk terima atau tolak order
-Tracking Pengantaran	Tracking perjalanan antar penumpang
-Riwayat Trip Driver	Daftar perjalanan + rating dari penumpang
-Top Up Saldo	Form isi saldo membership driver
-Chat	driver <--> penumpang
+- Login Driver	Form nomor HP + OTP untuk driver login
+- Register Driver	Form pendaftaran data lengkap driver
+- Dashboard Driver	Halaman utama driver, status & navigasi order
+- Terima Order	Halaman/komponen untuk terima atau tolak order
+- Tracking Pengantaran	Tracking perjalanan antar penumpang
+- Riwayat Trip Driver	Daftar perjalanan + rating dari penumpang
+- Top Up Saldo	Form isi saldo membership driver
+- Chat	driver <--> penumpang
 
 c.	Admin 
-Halaman Admin	Keterangan
-Login Admin	Form login untuk admin
-Dashboard Admin	Ringkasan statistik, grafik, dan quick action
-Manajemen User	Daftar dan kelola pelanggan & driver
-Manajemen Order	Pantau, edit, dan kelola order & status
-Manajemen Pembayaran	Monitoring transaksi dan status pembayaran
-Laporan & Statistik	Grafik dan laporan perjalanan, pendapatan
-Pengaturan Sistem	Setting umum sistem, tarif, dan konfigurasi
-Chat	driver <--> admin
-Broadcast message	Admin Penumpangdriver
-Tool untuk pasang iklan banner di homepage penumpang	•	Add banner di homepage penumpang 
+- Halaman Admin	Keterangan
+- Login Admin	Form login untuk admin
+- Dashboard Admin	Ringkasan statistik, grafik, dan quick action
+- Manajemen User	Daftar dan kelola pelanggan & driver
+- Manajemen Order	Pantau, edit, dan kelola order & status
+- Manajemen Pembayaran	Monitoring transaksi dan status pembayaran
+- Laporan & Statistik	Grafik dan laporan perjalanan, pendapatan
+- Pengaturan Sistem	Setting umum sistem, tarif, dan konfigurasi
+- Chat	driver <--> admin
+- Broadcast message	Admin Penumpangdriver
+- Tool untuk pasang iklan banner di homepage penumpang	•	Add banner di homepage penumpang 
 •	Link banner ke jajano.id
 •	Statistic view 
 
